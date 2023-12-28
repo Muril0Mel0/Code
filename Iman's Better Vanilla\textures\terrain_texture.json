@@ -1,0 +1,379 @@
+    "stone" : {
+       "textures" : [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/andesite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/granite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/diorite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_slab_top", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stonebrick", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick3", "weight": 1
+            }
+          ]
+        }
+      ]
+    },
+
+|!SOLUTION!|
+V          V
+
+    "stone" : {
+       "textures" : [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/granite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/granite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_granite_smooth3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/diorite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/diorite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_diorite_smooth3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/andesite", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/andesite3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_andesite_smooth3", "weight": 1
+            }
+          ]
+        }
+      ]
+    },
+ "stone_slab_top": {
+      "textures": [
+{
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stone_slab_top", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stone_slab_top3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/sandstone_top", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/planks_oak", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cobblestone", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/brick", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/stonebrick", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/quartz_block_top", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/nether_brick", "weight": 1
+            }
+          ]
+        }
+      ]
+    },
+            "stonebrick": {
+      "textures": [
+{
+          "variations": [
+            {
+              "path": "textures/blocks/blox/stonebrick", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick1", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick2", "weight": 1
+            },
+            {
+              "path": "textures/blocks/blox/stonebrick3", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/stonebrick_mossy", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/stonebrick_cracked", "weight": 1
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/stonebrick_carved", "weight": 1
+            }
+          ]
+        }
+      ]
+    },
+            "gravel"...
